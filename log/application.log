@@ -1,0 +1,344 @@
+2020-04-11 13:47:05,774 [main] INFO nopCommerce - Launching browser
+2020-04-11 13:47:11,407 [main] INFO nopCommerce - opening url
+2020-04-11 13:47:29,631 [main] INFO nopCommerce - entering username and password
+2020-04-11 13:47:31,160 [main] INFO nopCommerce - clicking on login button
+2020-04-11 13:47:52,201 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-11 13:47:52,314 [main] INFO nopCommerce - clicking on customer menu
+2020-04-11 13:47:55,677 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-11 13:48:05,057 [main] INFO nopCommerce - clicking on add new button
+2020-04-11 13:48:21,684 [main] INFO nopCommerce - viewing customer page
+2020-04-11 13:48:21,701 [main] INFO nopCommerce - entering customer info
+2020-04-11 13:48:32,539 [main] INFO nopCommerce - clicking on save button
+2020-04-11 13:48:42,003 [main] INFO nopCommerce - viewing confirmation message of customer registered
+2020-04-11 13:48:42,611 [main] INFO nopCommerce - closing browser
+2020-04-11 13:49:01,984 [main] INFO nopCommerce - Launching browser
+2020-04-11 13:49:06,122 [main] INFO nopCommerce - opening url
+2020-04-11 13:49:10,094 [main] INFO nopCommerce - entering username and password
+2020-04-11 13:49:10,661 [main] INFO nopCommerce - clicking on login button
+2020-04-11 13:49:21,167 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-11 13:49:21,470 [main] INFO nopCommerce - clicking on customer menu
+2020-04-11 13:49:24,602 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-11 13:49:35,811 [main] INFO nopCommerce - entering customer email
+2020-04-11 13:49:37,511 [main] INFO nopCommerce - clicking on search button
+2020-04-11 13:49:43,865 [main] INFO nopCommerce - searchin user availabity in table by email
+2020-04-11 13:49:44,362 [main] INFO nopCommerce - closing browser
+2020-04-11 13:50:16,465 [main] INFO nopCommerce - Launching browser
+2020-04-11 13:50:22,337 [main] INFO nopCommerce - opening url
+2020-04-11 13:50:32,139 [main] INFO nopCommerce - entering username and password
+2020-04-11 13:50:33,089 [main] INFO nopCommerce - clicking on login button
+2020-04-11 13:51:11,665 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-11 13:51:11,679 [main] INFO nopCommerce - clicking on customer menu
+2020-04-11 13:51:15,427 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-11 13:51:24,949 [main] INFO nopCommerce - enter user firstname
+2020-04-11 13:51:28,862 [main] INFO nopCommerce - entering lastname
+2020-04-11 13:51:32,092 [main] INFO nopCommerce - clicking on search button
+2020-04-11 13:51:37,262 [main] INFO nopCommerce - searching user by customername
+2020-04-11 13:51:38,305 [main] INFO nopCommerce - closing browser
+2020-04-11 20:26:02,882 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:26:03,208 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:26:03,262 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:28:06,555 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:28:06,985 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:28:07,106 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:30:34,017 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:30:34,204 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:30:34,255 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:34:12,561 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:34:48,620 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:35:00,565 [main] INFO nopCommerce - opening url
+2020-04-11 20:35:11,788 [main] INFO nopCommerce - entering username and password
+2020-04-11 20:35:14,152 [main] INFO nopCommerce - clicking on login button
+2020-04-11 20:35:45,687 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-11 20:35:45,957 [main] INFO nopCommerce - clicking on customer menu
+2020-04-11 20:35:49,316 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-11 20:35:57,253 [main] INFO nopCommerce - clicking on add new button
+2020-04-11 20:36:15,943 [main] INFO nopCommerce - viewing customer page
+2020-04-11 20:36:15,961 [main] INFO nopCommerce - entering customer info
+2020-04-11 20:36:26,217 [main] INFO nopCommerce - clicking on save button
+2020-04-11 20:36:34,568 [main] INFO nopCommerce - viewing confirmation message of customer registered
+2020-04-11 20:36:35,420 [main] INFO nopCommerce - closing browser
+2020-04-11 20:36:38,627 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:36:55,107 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:36:59,331 [main] INFO nopCommerce - opening url
+2020-04-11 20:37:05,114 [main] INFO nopCommerce - entering username and password
+2020-04-11 20:37:06,799 [main] INFO nopCommerce - clicking on login button
+2020-04-11 20:37:19,264 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-11 20:37:19,320 [main] INFO nopCommerce - clicking on customer menu
+2020-04-11 20:37:22,570 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-11 20:37:31,467 [main] INFO nopCommerce - entering customer email
+2020-04-11 20:37:34,719 [main] INFO nopCommerce - clicking on search button
+2020-04-11 20:37:39,939 [main] INFO nopCommerce - searchin user availabity in table by email
+2020-04-11 20:37:41,010 [main] INFO nopCommerce - closing browser
+2020-04-11 20:37:43,841 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:38:04,362 [main] INFO nopCommerce - Launching browser
+2020-04-11 20:38:08,675 [main] INFO nopCommerce - opening url
+2020-04-11 20:38:16,874 [main] INFO nopCommerce - entering username and password
+2020-04-11 20:38:17,933 [main] INFO nopCommerce - clicking on login button
+2020-04-11 20:38:51,369 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-11 20:38:51,420 [main] INFO nopCommerce - clicking on customer menu
+2020-04-11 20:38:55,448 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-11 20:39:05,126 [main] INFO nopCommerce - enter user firstname
+2020-04-11 20:39:09,465 [main] INFO nopCommerce - entering lastname
+2020-04-11 20:39:12,918 [main] INFO nopCommerce - clicking on search button
+2020-04-11 20:39:18,250 [main] INFO nopCommerce - searching user by customername
+2020-04-11 20:39:18,391 [main] INFO nopCommerce - closing browser
+2020-04-11 21:09:02,261 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:09:38,861 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:10:01,485 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:11:50,501 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:14:12,877 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:14:37,143 [main] INFO nopCommerce - opening url
+2020-04-11 21:15:47,812 [main] INFO nopCommerce - entering username and password
+2020-04-11 21:15:55,441 [main] INFO nopCommerce - clicking on login button
+2020-04-11 21:18:00,260 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:18:21,900 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:18:29,210 [main] INFO nopCommerce - opening url
+2020-04-11 21:18:34,364 [main] INFO nopCommerce - entering username and password
+2020-04-11 21:18:35,028 [main] INFO nopCommerce - clicking on login button
+2020-04-11 21:18:51,280 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-11 21:18:51,664 [main] INFO nopCommerce - clicking on customer menu
+2020-04-11 21:18:54,953 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-11 21:19:03,462 [main] INFO nopCommerce - clicking on add new button
+2020-04-11 21:19:21,075 [main] INFO nopCommerce - viewing customer page
+2020-04-11 21:19:21,097 [main] INFO nopCommerce - entering customer info
+2020-04-11 21:19:30,213 [main] INFO nopCommerce - clicking on save button
+2020-04-11 21:19:38,212 [main] INFO nopCommerce - viewing confirmation message of customer registered
+2020-04-11 21:19:38,777 [main] INFO nopCommerce - closing browser
+2020-04-11 21:19:39,110 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:19:59,093 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:20:03,246 [main] INFO nopCommerce - opening url
+2020-04-11 21:20:06,140 [main] INFO nopCommerce - entering username and password
+2020-04-11 21:20:06,703 [main] INFO nopCommerce - clicking on login button
+2020-04-11 21:20:17,901 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-11 21:20:17,914 [main] INFO nopCommerce - clicking on customer menu
+2020-04-11 21:20:21,088 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-11 21:20:27,376 [main] INFO nopCommerce - entering customer email
+2020-04-11 21:20:28,621 [main] INFO nopCommerce - clicking on search button
+2020-04-11 21:20:33,765 [main] INFO nopCommerce - searchin user availabity in table by email
+2020-04-11 21:20:34,019 [main] INFO nopCommerce - closing browser
+2020-04-11 21:20:35,735 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:20:50,794 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:20:54,960 [main] INFO nopCommerce - opening url
+2020-04-11 21:20:57,108 [main] INFO nopCommerce - entering username and password
+2020-04-11 21:20:57,805 [main] INFO nopCommerce - clicking on login button
+2020-04-11 21:21:10,470 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-11 21:21:10,512 [main] INFO nopCommerce - clicking on customer menu
+2020-04-11 21:21:13,720 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-11 21:21:19,987 [main] INFO nopCommerce - enter user firstname
+2020-04-11 21:21:23,368 [main] INFO nopCommerce - entering lastname
+2020-04-11 21:21:26,651 [main] INFO nopCommerce - clicking on search button
+2020-04-11 21:21:31,893 [main] INFO nopCommerce - searching user by customername
+2020-04-11 21:21:32,013 [main] INFO nopCommerce - closing browser
+2020-04-11 21:28:18,565 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:28:37,958 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:28:43,041 [main] INFO nopCommerce - opening url
+2020-04-11 21:28:49,398 [main] INFO nopCommerce - entering username and password
+2020-04-11 21:28:49,888 [main] INFO nopCommerce - clicking on login button
+2020-04-11 21:29:04,783 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-11 21:29:04,890 [main] INFO nopCommerce - clicking on customer menu
+2020-04-11 21:29:08,034 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-11 21:29:15,791 [main] INFO nopCommerce - clicking on add new button
+2020-04-11 21:29:32,059 [main] INFO nopCommerce - viewing customer page
+2020-04-11 21:29:32,117 [main] INFO nopCommerce - entering customer info
+2020-04-11 21:29:41,476 [main] INFO nopCommerce - clicking on save button
+2020-04-11 21:29:52,841 [main] INFO nopCommerce - viewing confirmation message of customer registered
+2020-04-11 21:29:53,324 [main] INFO nopCommerce - closing browser
+2020-04-11 21:44:20,278 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:44:51,839 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:45:01,309 [main] INFO nopCommerce - opening url
+2020-04-11 21:45:07,167 [main] INFO nopCommerce - entering username and password
+2020-04-11 21:45:08,633 [main] INFO nopCommerce - clicking on login button
+2020-04-11 21:47:23,504 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:47:46,961 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:47:56,187 [main] INFO nopCommerce - opening url
+2020-04-11 21:48:01,096 [main] INFO nopCommerce - entering username and password
+2020-04-11 21:48:01,834 [main] INFO nopCommerce - clicking on login button
+2020-04-11 21:48:32,028 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-11 21:48:33,431 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:49:05,767 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:49:22,599 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:49:29,545 [main] INFO nopCommerce - opening url
+2020-04-11 21:49:36,837 [main] INFO nopCommerce - entering username and password
+2020-04-11 21:49:37,629 [main] INFO nopCommerce - clicking on login button
+2020-04-11 21:49:59,878 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-11 21:50:00,159 [main] INFO nopCommerce - clicking on customer menu
+2020-04-11 21:50:03,854 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-11 21:50:12,037 [main] INFO nopCommerce - clicking on add new button
+2020-04-11 21:50:27,841 [main] INFO nopCommerce - viewing customer page
+2020-04-11 21:50:27,872 [main] INFO nopCommerce - entering customer info
+2020-04-11 21:50:36,707 [main] INFO nopCommerce - clicking on save button
+2020-04-11 21:50:46,728 [main] INFO nopCommerce - viewing confirmation message of customer registered
+2020-04-11 21:50:47,250 [main] INFO nopCommerce - closing browser
+2020-04-11 21:50:47,642 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:51:02,347 [main] INFO nopCommerce - Launching browser
+2020-04-11 21:51:06,514 [main] INFO nopCommerce - opening url
+2020-04-11 21:51:11,574 [main] INFO nopCommerce - entering username and password
+2020-04-11 21:51:12,274 [main] INFO nopCommerce - clicking on login button
+2020-04-11 21:51:50,560 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-11 21:51:50,591 [main] INFO nopCommerce - clicking on customer menu
+2020-04-11 21:51:53,795 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-11 21:52:01,339 [main] INFO nopCommerce - entering customer email
+2020-04-11 21:52:02,465 [main] INFO nopCommerce - clicking on search button
+2020-04-11 21:52:07,826 [main] INFO nopCommerce - searchin user availabity in table by email
+2020-04-11 21:52:07,972 [main] INFO nopCommerce - closing browser
+2020-04-12 13:54:09,495 [main] INFO nopCommerce - Launching browser
+2020-04-12 13:56:35,807 [main] INFO nopCommerce - Launching browser
+2020-04-12 13:56:56,086 [main] INFO nopCommerce - opening url
+2020-04-12 13:57:37,018 [main] INFO nopCommerce - entering username and password
+2020-04-12 13:57:52,069 [main] INFO nopCommerce - Launching browser
+2020-04-12 13:58:20,435 [main] INFO nopCommerce - Launching browser
+2020-04-12 13:58:20,526 [main] INFO nopCommerce - opening url
+2020-04-12 13:58:20,535 [main] INFO nopCommerce - entering username and password
+2020-04-12 13:59:33,568 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:00:35,510 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:00:47,405 [main] INFO nopCommerce - opening url
+2020-04-12 14:01:03,829 [main] INFO nopCommerce - entering username and password
+2020-04-12 14:01:08,117 [main] INFO nopCommerce - clicking on login button
+2020-04-12 14:03:09,116 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:03:39,836 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:03:49,154 [main] INFO nopCommerce - opening url
+2020-04-12 14:03:56,722 [main] INFO nopCommerce - entering username and password
+2020-04-12 14:03:57,994 [main] INFO nopCommerce - clicking on login button
+2020-04-12 14:05:10,756 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-12 14:05:25,851 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:05:38,939 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-12 14:05:40,526 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:05:42,901 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:05:47,355 [main] INFO nopCommerce - opening url
+2020-04-12 14:05:56,241 [main] INFO nopCommerce - entering username and password
+2020-04-12 14:06:03,419 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:06:27,494 [main] INFO nopCommerce - opening url
+2020-04-12 14:06:28,130 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:06:43,828 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:06:50,099 [main] INFO nopCommerce - opening url
+2020-04-12 14:07:01,539 [main] INFO nopCommerce - entering username and password
+2020-04-12 14:07:02,088 [main] INFO nopCommerce - clicking on login button
+2020-04-12 14:11:36,308 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-12 14:11:42,036 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:12:18,927 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:12:19,003 [main] INFO nopCommerce - opening url
+2020-04-12 14:12:19,013 [main] INFO nopCommerce - entering username and password
+2020-04-12 14:13:49,767 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:14:13,322 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:14:30,053 [main] INFO nopCommerce - opening url
+2020-04-12 14:14:41,377 [main] INFO nopCommerce - entering username and password
+2020-04-12 14:14:46,615 [main] INFO nopCommerce - clicking on login button
+2020-04-12 14:15:46,688 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:16:23,764 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:16:27,920 [main] INFO nopCommerce - opening url
+2020-04-12 14:16:34,153 [main] INFO nopCommerce - entering username and password
+2020-04-12 14:16:34,992 [main] INFO nopCommerce - clicking on login button
+2020-04-12 14:17:06,088 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:17:53,430 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:18:04,977 [main] INFO nopCommerce - opening url
+2020-04-12 14:18:17,332 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:18:23,891 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-12 14:18:45,676 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:18:50,189 [main] INFO nopCommerce - opening url
+2020-04-12 14:18:59,264 [main] INFO nopCommerce - entering username and password
+2020-04-12 14:19:36,967 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:19:52,724 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:19:58,534 [main] INFO nopCommerce - opening url
+2020-04-12 14:20:06,386 [main] INFO nopCommerce - entering username and password
+2020-04-12 14:20:06,882 [main] INFO nopCommerce - clicking on login button
+2020-04-12 14:30:15,391 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-12 14:30:22,463 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:31:15,640 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:31:18,152 [main] INFO nopCommerce - opening url
+2020-04-12 14:31:18,161 [main] INFO nopCommerce - entering username and password
+2020-04-12 14:43:23,762 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:44:11,003 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:44:25,479 [main] INFO nopCommerce - opening url
+2020-04-12 14:44:54,008 [main] INFO nopCommerce - entering username and password
+2020-04-12 14:44:59,750 [main] INFO nopCommerce - clicking on login button
+2020-04-12 14:46:56,997 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-12 14:46:57,205 [main] INFO nopCommerce - clicking on customer menu
+2020-04-12 14:47:19,267 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-12 14:51:06,033 [main] INFO nopCommerce - clicking on add new button
+2020-04-12 14:51:24,798 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:51:45,519 [main] INFO nopCommerce - Launching browser
+2020-04-12 14:52:09,585 [main] INFO nopCommerce - opening url
+2020-04-12 15:10:15,704 [main] INFO nopCommerce - Launching browser
+2020-04-12 15:10:42,877 [main] INFO nopCommerce - Launching browser
+2020-04-12 15:10:52,953 [main] INFO nopCommerce - opening url
+2020-04-12 15:11:19,767 [main] INFO nopCommerce - entering username and password
+2020-04-12 15:11:24,547 [main] INFO nopCommerce - clicking on login button
+2020-04-12 15:12:37,654 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-12 15:12:52,151 [main] INFO nopCommerce - Launching browser
+2020-04-12 15:13:22,022 [main] INFO nopCommerce - Launching browser
+2020-04-12 15:13:22,101 [main] INFO nopCommerce - opening url
+2020-04-12 15:13:22,116 [main] INFO nopCommerce - entering username and password
+2020-04-12 19:50:20,368 [main] INFO nopCommerce - Launching browser
+2020-04-12 19:51:18,408 [main] INFO nopCommerce - Launching browser
+2020-04-12 19:51:31,759 [main] INFO nopCommerce - opening url
+2020-04-12 19:52:00,828 [main] INFO nopCommerce - entering username and password
+2020-04-12 19:52:05,804 [main] INFO nopCommerce - clicking on login button
+2020-04-12 19:52:48,682 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-12 19:53:04,303 [main] INFO nopCommerce - Launching browser
+2020-04-12 19:54:14,694 [main] INFO nopCommerce - Launching browser
+2020-04-12 19:54:20,390 [main] INFO nopCommerce - opening url
+2020-04-12 19:57:56,380 [main] INFO nopCommerce - Launching browser
+2020-04-12 19:58:26,609 [main] INFO nopCommerce - Launching browser
+2020-04-12 19:58:38,761 [main] INFO nopCommerce - opening url
+2020-04-12 19:58:59,941 [main] INFO nopCommerce - entering username and password
+2020-04-12 19:59:02,110 [main] INFO nopCommerce - clicking on login button
+2020-04-12 20:00:03,447 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-12 20:00:03,511 [main] INFO nopCommerce - clicking on customer menu
+2020-04-12 20:00:15,558 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-12 20:00:46,511 [main] INFO nopCommerce - clicking on add new button
+2020-04-12 20:01:03,132 [main] INFO nopCommerce - viewing customer page
+2020-04-12 20:01:03,179 [main] INFO nopCommerce - entering customer info
+2020-04-12 20:01:13,844 [main] INFO nopCommerce - clicking on save button
+2020-04-12 20:01:24,891 [main] INFO nopCommerce - viewing confirmation message of customer registered
+2020-04-12 20:01:25,482 [main] INFO nopCommerce - closing browser
+2020-04-12 20:01:27,046 [main] INFO nopCommerce - Launching browser
+2020-04-12 20:01:46,739 [main] INFO nopCommerce - Launching browser
+2020-04-12 20:01:51,027 [main] INFO nopCommerce - opening url
+2020-04-12 20:02:05,922 [main] INFO nopCommerce - entering username and password
+2020-04-12 20:02:06,624 [main] INFO nopCommerce - clicking on login button
+2020-04-12 20:02:54,806 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-12 20:02:55,106 [main] INFO nopCommerce - clicking on customer menu
+2020-04-12 20:03:09,717 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-12 20:03:31,460 [main] INFO nopCommerce - entering customer email
+2020-04-12 20:03:33,458 [main] INFO nopCommerce - clicking on search button
+2020-04-12 20:03:38,808 [main] INFO nopCommerce - searchin user availabity in table by email
+2020-04-12 20:03:38,968 [main] INFO nopCommerce - closing browser
+2020-04-12 20:12:25,975 [main] INFO nopCommerce - Launching browser
+2020-04-12 20:13:00,835 [main] INFO nopCommerce - Launching browser
+2020-04-12 20:13:13,491 [main] INFO nopCommerce - opening url
+2020-04-12 20:13:32,555 [main] INFO nopCommerce - entering username and password
+2020-04-12 20:13:57,973 [main] INFO nopCommerce - clicking on login button
+2020-04-12 20:14:23,467 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-12 20:14:23,549 [main] INFO nopCommerce - clicking on customer menu
+2020-04-12 20:14:26,934 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-12 20:14:37,239 [main] INFO nopCommerce - clicking on add new button
+2020-04-12 20:14:52,320 [main] INFO nopCommerce - viewing customer page
+2020-04-12 20:14:52,347 [main] INFO nopCommerce - entering customer info
+2020-04-12 20:15:06,693 [main] INFO nopCommerce - clicking on save button
+2020-04-12 20:15:17,929 [main] INFO nopCommerce - viewing confirmation message of customer registered
+2020-04-12 20:15:18,403 [main] INFO nopCommerce - closing browser
+2020-04-12 20:15:22,331 [main] INFO nopCommerce - Launching browser
+2020-04-12 20:15:39,368 [main] INFO nopCommerce - Launching browser
+2020-04-12 20:15:43,555 [main] INFO nopCommerce - opening url
+2020-04-12 20:15:49,479 [main] INFO nopCommerce - entering username and password
+2020-04-12 20:15:49,923 [main] INFO nopCommerce - clicking on login button
+2020-04-12 20:16:09,782 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-12 20:16:09,828 [main] INFO nopCommerce - clicking on customer menu
+2020-04-12 20:16:13,409 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-12 20:16:24,261 [main] INFO nopCommerce - entering customer email
+2020-04-12 20:16:26,112 [main] INFO nopCommerce - clicking on search button
+2020-04-12 20:16:31,293 [main] INFO nopCommerce - searchin user availabity in table by email
+2020-04-12 20:16:31,516 [main] INFO nopCommerce - closing browser
+2020-04-12 20:16:33,493 [main] INFO nopCommerce - Launching browser
+2020-04-12 20:16:50,275 [main] INFO nopCommerce - Launching browser
+2020-04-12 20:16:54,654 [main] INFO nopCommerce - opening url
+2020-04-12 20:17:05,391 [main] INFO nopCommerce - entering username and password
+2020-04-12 20:17:06,134 [main] INFO nopCommerce - clicking on login button
+2020-04-12 20:17:29,157 [main] INFO nopCommerce - user is viewing dashboard
+2020-04-12 20:17:29,198 [main] INFO nopCommerce - clicking on customer menu
+2020-04-12 20:17:32,494 [main] INFO nopCommerce - clicking on custmer menuitem
+2020-04-12 20:17:43,343 [main] INFO nopCommerce - enter user firstname
+2020-04-12 20:17:48,265 [main] INFO nopCommerce - entering lastname
+2020-04-12 20:17:51,572 [main] INFO nopCommerce - clicking on search button
+2020-04-12 20:17:58,025 [main] INFO nopCommerce - searching user by customername
+2020-04-12 20:17:58,352 [main] INFO nopCommerce - closing browser
